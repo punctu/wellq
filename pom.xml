@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
+    <groupId>com.wellQ</groupId>
     <artifactId>wellQautomation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>${guava.version}</version>
+            <version>23.0</version>
         </dependency>
         <dependency>
             <groupId>com.aventstack</groupId>
@@ -74,6 +74,12 @@
             <artifactId>javafaker</artifactId>
             <version>${javafaker.version}</version>
         </dependency>
+        <dependency>
+    		<groupId>junit</groupId>
+    		<artifactId>junit</artifactId>
+    		<version>4.4</version>
+    		<scope>test</scope>
+		</dependency>
     </dependencies>
 
     <build>

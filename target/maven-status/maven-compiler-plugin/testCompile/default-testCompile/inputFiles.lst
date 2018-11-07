@@ -1,2 +1,2 @@
-/Users/mplesuvu/eclipse-workspace/selenium-testng-template/src/test/java/com/wellQ/tests/SampleTest.java
-/Users/mplesuvu/eclipse-workspace/selenium-testng-template/src/test/java/com/wellQ/tests/BaseTest.java
+/Users/mplesuvu/eclipse-workspace/wellq/src/test/java/com/wellQ/page_objects/Login.java
+/Users/mplesuvu/eclipse-workspace/wellq/src/test/java/com/wellQ/tests/validateLoginFunctionalityTest.java

@@ -1,5 +1,4 @@
-# Selenium TestNG Maven Project Template
-
+# Selenium TestNG Maven Project
 ## Packages Used
 
 * Selenium WebDriver
